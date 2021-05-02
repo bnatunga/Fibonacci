@@ -1,0 +1,3 @@
+Fibonacci sequence is a sequence of numbers where the next number in the sequence is given by the sum of the previous two numbers. 
+The first two numbers are given as 0 and 1. So the sequence begins 0, 1, 1, 2, 3, 5, 8... 
+Sequence is infinite.
